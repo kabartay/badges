@@ -29,31 +29,34 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&logoColor=white&color=39457E)
+![](https://img.shields.io/badge/Code-P-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
 ### Tools
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
-![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Code-Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
+![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![](https://img.shields.io/badge/Code-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white&color=326CE5)
 ![](https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&logoColor=white&color=41CD52)
 
 ### Frameworks   
-![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
-![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
-![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
+![](https://img.shields.io/badge/Code-PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
 
 ### Python libs
-![](https://img.shields.io/badge/Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
-![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
+![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![](https://img.shields.io/badge/Code-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![](https://img.shields.io/badge/Code-SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
+![](https://img.shields.io/badge/Code-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 
 ### IDEs
 ![](https://img.shields.io/badge/Code-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0078d7)
 ![](https://img.shields.io/badge/Code-Atom-informational?style=flat&logo=atom&logoColor=white&color=66595C)
 ![](https://img.shields.io/badge/Code-Emacs-informational?style=flat&logo=gnu-emacs&logoColor=white&color=7F5AB6)
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
+![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
 
 ### Database systems
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
@@ -62,12 +65,14 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ### Others
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
 ![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
 ![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=008CC1)
-![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
+![](https://img.shields.io/badge/VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=183A61)
 ![](https://img.shields.io/badge/Wolfram-informational?style=flat&logo=wolfram&logoColor=white&color=DD1100)
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
 
@@ -80,10 +85,12 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
 ![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white&color=FFA116)
 ![](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=2EC866)
+![](https://img.shields.io/badge/Codecademy-informational?style=flat&logo=codecademy&logoColor=white&color=1F4056)
 
 ### Brands
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux-foundation&logoColor=white&color=003764)
+![](https://img.shields.io/badge/Google-informational?style=flat&logo=google&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/IBM-informational?style=flat&logo=ibm&logoColor=white&color=054ADA)
 ![](https://img.shields.io/badge/HP-informational?style=flat&logo=hp&logoColor=white&color=0096D6)
 ![](https://img.shields.io/badge/Dell-informational?style=flat&logo=dell&logoColor=white&color=007DB8)
-
 
