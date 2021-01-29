@@ -69,6 +69,7 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/edX-informational?style=flat&logo=edx&logoColor=white&color=02262B)
 ![](https://img.shields.io/badge/Coursera-informational?style=flat&logo=coursera&logoColor=white&color=0056D2)
 ![](https://img.shields.io/badge/FutureLearn-informational?style=flat&logo=futurelearn&logoColor=white&color=DE00A5)
+![](https://img.shields.io/badge/Udemy-informational?style=flat&logo=udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=flat&logo=ted&logoColor=white&color=E62B1E)
 
 ### Brands
