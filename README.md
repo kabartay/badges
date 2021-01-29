@@ -36,6 +36,9 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Code-Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
+![](https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&logoColor=white&color=41CD52)
+
+
 
 ### Frameworks   
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
@@ -58,11 +61,13 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ### Others
 ![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
 ![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
 ![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=008CC1)
 ![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
 ![](https://img.shields.io/badge/Wolfram-informational?style=flat&logo=wolfram&logoColor=white&color=DD1100)
@@ -75,6 +80,7 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Udemy-informational?style=flat&logo=udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=flat&logo=ted&logoColor=white&color=E62B1E)
 ![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white&color=FFA116)
+![](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=2EC866)
 
 ### Brands
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux-foundation&logoColor=white&color=003764)
