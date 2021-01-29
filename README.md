@@ -29,7 +29,10 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&logoColor=white&color=39457E)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
+
 
 ### Tools
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
@@ -54,4 +57,23 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 
 ### Others
+![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
+![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=008CC1)
+![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
+![](https://img.shields.io/badge/Wolfram-informational?style=flat&logo=wolfram&logoColor=white&color=DD1100)
 ![](https://img.shields.io/badge/Overleaf-informational?style=flat&logo=overleaf&logoColor=white&color=47A141)
+
+### MOOCs and educational platforms
+![](https://img.shields.io/badge/edX-informational?style=flat&logo=edx&logoColor=white&color=02262B)
+![](https://img.shields.io/badge/Coursera-informational?style=flat&logo=coursera&logoColor=white&color=0056D2)
+![](https://img.shields.io/badge/FutureLearn-informational?style=flat&logo=futurelearn&logoColor=white&color=DE00A5)
+![](https://img.shields.io/badge/TED-informational?style=flat&logo=ted&logoColor=white&color=E62B1E)
+
+### Brands
+![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux-foundation&logoColor=white&color=003764)
+![](https://img.shields.io/badge/HP-informational?style=flat&logo=hp&logoColor=white&color=0096D6)
+![](https://img.shields.io/badge/Dell-informational?style=flat&logo=dell&logoColor=white&color=007DB8)
+
+
