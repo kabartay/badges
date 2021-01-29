@@ -58,18 +58,22 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 ![](https://img.shields.io/badge/Code-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=75AADB)
 
-### Database systems
+### Database systems and big data tools
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=003B57)
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
+![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
+
+### Cloud services
+![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
+![](https://img.shields.io/badge/GoogleCloud-informational?style=flat&logo=google-cloud&logoColor=white&color=4285F4)
+![](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=232F3E)
 
 ### Others
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Confluence-informational?style=flat&logo=confluence&logoColor=white&color=172B4D)
-![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=D22128)
-![](https://img.shields.io/badge/ApacheSpark-informational?style=flat&logo=apache-spark&logoColor=white&color=E25A1C)
-![](https://img.shields.io/badge/Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=0089D6)
 ![](https://img.shields.io/badge/Arduino-informational?style=flat&logo=arduino&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/Neo4j-informational?style=flat&logo=neo4j&logoColor=white&color=008CC1)
 ![](https://img.shields.io/badge/VirtualBox-informational?style=flat&logo=virtualbox&logoColor=white&color=183A61)
@@ -81,6 +85,7 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Coursera-informational?style=flat&logo=coursera&logoColor=white&color=0056D2)
 ![](https://img.shields.io/badge/FutureLearn-informational?style=flat&logo=futurelearn&logoColor=white&color=DE00A5)
 ![](https://img.shields.io/badge/Udemy-informational?style=flat&logo=udemy&logoColor=white&color=EC5252)
+![](https://img.shields.io/badge/KhanAcademy-informational?style=flat&logo=khanacademy&logoColor=white&color=14BF96)
 ![](https://img.shields.io/badge/TED-informational?style=flat&logo=ted&logoColor=white&color=E62B1E)
 ![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
 ![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white&color=FFA116)
