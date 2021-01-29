@@ -38,8 +38,6 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-Colab-informational?style=flat&logo=google-colab&logoColor=white&color=F4B400)
 ![](https://img.shields.io/badge/Code-Qt-informational?style=flat&logo=qt&logoColor=white&color=41CD52)
 
-
-
 ### Frameworks   
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
@@ -79,6 +77,7 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/FutureLearn-informational?style=flat&logo=futurelearn&logoColor=white&color=DE00A5)
 ![](https://img.shields.io/badge/Udemy-informational?style=flat&logo=udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=flat&logo=ted&logoColor=white&color=E62B1E)
+![](https://img.shields.io/badge/Kaggle-informational?style=flat&logo=kaggle&logoColor=white&color=20BEFF)
 ![](https://img.shields.io/badge/LeetCode-informational?style=flat&logo=leetcode&logoColor=white&color=FFA116)
 ![](https://img.shields.io/badge/HackerRank-informational?style=flat&logo=hackerrank&logoColor=white&color=2EC866)
 
