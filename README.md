@@ -29,7 +29,7 @@ Stay tuned for updates and star the project!
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=Perl&logoColor=white&color=39457E)
-![](https://img.shields.io/badge/Code-P-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 
 ### Tools
